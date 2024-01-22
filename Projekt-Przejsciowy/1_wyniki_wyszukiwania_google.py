@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 import time
 
-client = ApifyClient("apify_api_vOJ7wRY9vmrXaCvvrP38MwfPfsL0BE3FvRrr")
+client = ApifyClient()
 
 query = "psychoterapia warszawa"
 
