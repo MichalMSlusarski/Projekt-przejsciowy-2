@@ -1,0 +1,1476 @@
+[
+  {
+    "#debug": {
+      "requestId": "s7C7vhiQjchIfNd",
+      "url": "http://www.google.pl/search?hl=pl&num=100&q=serwis%20rowerowy%20warszawa",
+      "loadedUrl": "http://www.google.pl/search?hl=pl&num=100&q=serwis%20rowerowy%20warszawa",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "serwis rowerowy warszawa",
+      "url": "http://www.google.pl/search?hl=pl&num=100&q=serwis%20rowerowy%20warszawa",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.pl",
+      "countryCode": "PL",
+      "languageCode": "pl",
+      "locationUule": null,
+      "resultsPerPage": "100"
+    },
+    "url": "http://www.google.pl/search?hl=pl&num=100&q=serwis%20rowerowy%20warszawa",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": 524000,
+    "relatedQueries": [
+      {
+        "title": "serwis rowerowy bemowo, warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=serwis+rowerowy+bemowo,+warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAhBEAE"
+      },
+      {
+        "title": "Sklep rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Sklep+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAhAEAE"
+      },
+      {
+        "title": "Największy sklep rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Najwi%C4%99kszy+sklep+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAg9EAE"
+      },
+      {
+        "title": "OUTLET rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=OUTLET+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgwEAE"
+      },
+      {
+        "title": "Najlepszy sklep rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Najlepszy+sklep+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgvEAE"
+      },
+      {
+        "title": "centrumrowerowe.pl - sklep rowerowy warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=centrumrowerowe.pl+-+sklep+rowerowy+warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAguEAE"
+      },
+      {
+        "title": "Centrum rowerowe serwis warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Centrum+rowerowe+serwis+warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgsEAE"
+      },
+      {
+        "title": "Sklep rowerowy Warszawa Wola",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Sklep+rowerowy+Warszawa+Wola&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgrEAE"
+      },
+      {
+        "title": "serwis rowerowy bemowo, warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=serwis+rowerowy+bemowo,+warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAhBEAE"
+      },
+      {
+        "title": "Sklep rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Sklep+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAhAEAE"
+      },
+      {
+        "title": "Największy sklep rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Najwi%C4%99kszy+sklep+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAg9EAE"
+      },
+      {
+        "title": "OUTLET rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=OUTLET+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgwEAE"
+      },
+      {
+        "title": "Najlepszy sklep rowerowy Warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Najlepszy+sklep+rowerowy+Warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgvEAE"
+      },
+      {
+        "title": "centrumrowerowe.pl - sklep rowerowy warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=centrumrowerowe.pl+-+sklep+rowerowy+warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAguEAE"
+      },
+      {
+        "title": "Centrum rowerowe serwis warszawa",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Centrum+rowerowe+serwis+warszawa&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgsEAE"
+      },
+      {
+        "title": "Sklep rowerowy Warszawa Wola",
+        "url": "https://www.google.pl/search?num=100&sca_esv=600400644&hl=pl&gl=pl&q=Sklep+rowerowy+Warszawa+Wola&sa=X&ved=2ahUKEwjSka_FjfGDAxVSv4kEHVzyCh0Q1QJ6BAgrEAE"
+      }
+    ],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Serwis Rowerowy Warszawa",
+        "url": "https://wygodnyrower.pl/serwis/serwis-rowerowy-warszawa/",
+        "displayedUrl": "https://wygodnyrower.pl › Serwis",
+        "description": "Wygodny Rower to sieć sklepów i serwisów rowerowych w Warszawie, a także sklep internetowy: sklepzrowerami.pl – w każdym miejscu czekamy na Ciebie, chętnie ...",
+        "emphasizedKeywords": [
+          "serwisów rowerowych",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Sklep rowerowy Warszawa - rowery miejskie, rowery na ...",
+        "url": "https://3gravity.pl/pl/",
+        "displayedUrl": "https://3gravity.pl › ...",
+        "description": "Największy sklep i serwis rowerowy na Powiślu w Warszawie. Rowery: Polka Bikes, Kross, Le Grand. Custom Bikes - rowery na zamówienie.",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Sklep rowerowy Warszawa",
+        "url": "https://www.centrumrowerowe.pl/sklep-rowerowy-warszawa/",
+        "displayedUrl": "https://www.centrumrowerowe.pl › sklep-rowerowy-w...",
+        "description": "Odwiedź nasz pierwszy stacjonarny sklep rowerowy w Warszawie. Oferujemy szeroki wybór produktów i fachowe doradztwo. Sprawdź!",
+        "emphasizedKeywords": [
+          "sklep rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Skleprowerowy.pl - Największy sklep rowerowy w Warszawie",
+        "url": "https://skleprowerowy.pl/",
+        "displayedUrl": "https://skleprowerowy.pl",
+        "description": "Najlepszy sklep rowerowy! Szeroki wybór różnego rodzaju rowerów. Najpopularniejsze marki - Trek, Specialized, Puky. Serwis rowerowy i Bike Fitting w ...",
+        "emphasizedKeywords": [
+          "sklep rowerowy",
+          "Serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Sportset - sklep rowerowy - Warszawa. Rowery Trek, Diamant ...",
+        "url": "https://sportset.pl/",
+        "displayedUrl": "https://sportset.pl",
+        "description": "Sklep stacjonarny w Warszawie, serwis rowerowy, sprzedaż internetowa. Sprzedajemy rowery i akcesoria takich firm jak Trek, Diamant, Unibike.",
+        "emphasizedKeywords": [
+          "Warszawie",
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Beat Bike — Naprawa rowerów, serwis rowerowy - Warszawa ...",
+        "url": "https://beatbike.pl/",
+        "displayedUrl": "https://beatbike.pl",
+        "description": "Serwis rowerowy Beat Bike oferuje sprzedaż rowerów custom. W ofercie znajduje się także naprawa rowerów i podzespołów. Zapraszamy - Warszawa - Praga.",
+        "emphasizedKeywords": [
+          "Serwis rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Serwisy rowerowe w Warszawie. Lista warsztatów, gdzie ...",
+        "url": "https://warszawa.naszemiasto.pl/serwisy-rowerowe-w-warszawie-lista-warsztatow-gdzie-mozna-naprawic-rower-lub-zrobic-jego-przeglad/ar/c15p1-21631935",
+        "displayedUrl": "https://warszawa.naszemiasto.pl › Sport",
+        "description": "29 wrz 2023 — Kross Evado 4.0 Czarny Zielony Mat 28 2023 · Grochowska 324/14, 03-838 Warszawa, Polska · Pereca 11, 00-849 Warszawa, Polska · Mordechaja ...",
+        "emphasizedKeywords": [
+          "Warszawa",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Rowery Warszawa | Sklep rowerowy",
+        "url": "https://www.rowerywarszawa.pl/",
+        "displayedUrl": "https://www.rowerywarszawa.pl",
+        "description": "Sklep rowerowy Rowery Warszawa oferuje najlepszej jakości sprzęt rowerowy. Skorzystaj także z profesjonalnego serwisu rowerowego w Warszawie.",
+        "emphasizedKeywords": [
+          "Sklep rowerowy",
+          "Warszawa",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Nowy sklep i serwis WygodnyRower | BIELANY",
+        "url": "https://wygodnyrower.pl/aktualnosci/%F0%9F%91%8Bnowy-sklep-i-serwis-wygodnyrower-bielany/",
+        "displayedUrl": "https://wygodnyrower.pl › Aktualności",
+        "description": "Wygodny Rower to sieć sklepów i serwisów rowerowych w Warszawie, a także sklep internetowy: sklepzrowerami.pl – w każdym miejscu czekamy na Ciebie, chętnie ...",
+        "emphasizedKeywords": [
+          "serwisów rowerowych",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      },
+      {
+        "title": "Serwis rowerowy Warszawa - Decathlon",
+        "url": "https://www.decathlon.pl/serwis-rowerowy-warszawa_lp-2FZRI2",
+        "displayedUrl": "https://www.decathlon.pl › serwis-rowerowy-warszawa...",
+        "description": "Szukasz w Warszawie profesjonalnego serwisu rowerowego? Odwiedź Decathlon! Nasi fachowcy są do Twojej dyspozycji — przeprowadzą przegląd i naprawią Twój ...",
+        "emphasizedKeywords": [
+          "Warszawie",
+          "serwisu"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 10
+      },
+      {
+        "title": "Naprawa, serwis rowerowy Warszawa",
+        "url": "https://sklep-naszosie.pl/serwis-rowerowy-warszawa/",
+        "displayedUrl": "https://sklep-naszosie.pl › serwis-rowerowy-warszawa",
+        "description": "Serwisujemy rowery wszystkich marek, pracujemy najlepszymi narzędziami. Serwis z wieloletnim doświadczeniem. Warszawa ul. Wczasowa 1 | Zapraszamy!",
+        "emphasizedKeywords": [
+          "rowery",
+          "Serwis",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 11
+      },
+      {
+        "title": "Serwis rowerowy Warszawa | sklep rowerowy Sprint-Rowery.pl",
+        "url": "https://sprint-rowery.pl/serwis-rowerowy-warszawa",
+        "displayedUrl": "https://sprint-rowery.pl › serwis-rowerowy-warszawa",
+        "description": "Odwiedź nasze centra rowerowe :+1: w Warszawie i Białymstoku lub nasz sklep online :ok_hand: ze sprzętem rowerowym ⇨ Sprint-Rowery.pl Zapraszamy!",
+        "emphasizedKeywords": [
+          "rowerowe",
+          "Warszawie",
+          "sklep",
+          "Rowery"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 12
+      },
+      {
+        "title": "Salon Na Szosie - Profesjonalny Sklep rowerowy Warszawa",
+        "url": "https://sklep-naszosie.pl/",
+        "displayedUrl": "https://sklep-naszosie.pl",
+        "description": "Szeroki wybór rowerów, akcesoriów i odzieży dla każdego miłośnika kolarstwa. Sklep Na Szosie - markowe produkty w korzystnych cenach. Zapraszamy!",
+        "emphasizedKeywords": [
+          "Sklep"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 13
+      },
+      {
+        "title": "SERWIS ROWEROWY - sklep rowerowy Bike-Project.pl",
+        "url": "https://bike-project.pl/serwis-rowerowy-Bemowo",
+        "displayedUrl": "https://bike-project.pl › serwis-rowerowy-Bemowo",
+        "description": "Bike-Project Serwis Rowerowy Bemowo, Warszawa Rowery używane, Rowery miejskie Warszawa, Rowery holenderskie Warszawa. Sklep i Serwis Rowerowy BIKE PROJECT ...",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy",
+          "Warszawa",
+          "Warszawa",
+          "Warszawa",
+          "Serwis Rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 14
+      },
+      {
+        "title": "Serwis i sklep rowerowy Warszawa - Antymateria",
+        "url": "https://antymateria.com/sklep-i-serwis-rowerowy-zdziechowskiego/",
+        "displayedUrl": "https://antymateria.com › sklep-i-serwis-rowerowy-zdz...",
+        "description": "Nasz serwis rowerowy położony jest na Mokotowie, ale obsługujemy klientów z całej Warszawy i okolic. Ze względu na posiadane narzędzia możemy podjąć się ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 15
+      },
+      {
+        "title": "Serwis rowerowy Warszawa Mokotów",
+        "url": "https://trirent.pl/245-serwis-rowerowy-warszawa-mokotow",
+        "displayedUrl": "https://trirent.pl › 245-serwis-rowerowy-warszawa-mo...",
+        "description": "Poszukujesz dobrego i sprawdzonego serwisu rowerowego, do naprawy rowerów czy serwisu? Sprawdź Trirent! Zapraszamy do Fortu Mokotów na naprawy rowerowe.",
+        "emphasizedKeywords": [
+          "serwisu",
+          "serwisu",
+          "rowerowe"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 16
+      },
+      {
+        "title": "Serwis rowerowy - naprawa i przegląd rowerów",
+        "url": "https://www.bybikes.pl/pl/c/SERWIS/38",
+        "displayedUrl": "https://www.bybikes.pl › SERWIS",
+        "description": "Zamontujemy nawet akcesoria, które fabrycznie nie znajdowały się przy rowerze. Nasz serwis rowerów odwiedzają klienci z Warszawy, całego województwa ...",
+        "emphasizedKeywords": [
+          "serwis",
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 17
+      },
+      {
+        "title": "Sklep i serwis rowerowy Warszawa - Rowery i akcesoria ...",
+        "url": "https://kross.eu/pl/sklepy-i-serwisy-rowerowe-warszawa-mazowieckie",
+        "displayedUrl": "https://kross.eu › sklepy-i-serwisy-rowerowe-warszawa...",
+        "description": "Zapisz się i odbieraj informacje na temat nowości produktowych, ofert specjalnych i najlepsze porady rowerowe od KROSS!",
+        "emphasizedKeywords": [
+          "rowerowe"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 18
+      },
+      {
+        "title": "Travel Bike | Serwis rowerowy, Sklep, Miejsce spotkań ...",
+        "url": "https://travelbike.pl/",
+        "displayedUrl": "https://travelbike.pl",
+        "description": "Travel Bike to sklep i serwis rowerowy, który powstał z pasji do podróży rowerowych. Serwisujemy każdego rodzaju rowery | Elektoralna 9 Warszawa.",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 19
+      },
+      {
+        "title": "Serwis rowerowy Warszawa",
+        "url": "https://alltheway.pl/content/52-serwis-rowerowy-warszawa",
+        "displayedUrl": "https://alltheway.pl › content › 52-serwis-rowerowy-w...",
+        "description": "Serwis rowerowy Warszawa - Żoliborz · Adres i kontakt · ul. Słowackiego 25 lok. U1 01-592 Warszawa · tel: +48 459 412 300 · Cennik · Jakie usługi świadczymy?",
+        "emphasizedKeywords": [
+          "Serwis rowerowy Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 20
+      },
+      {
+        "title": "STRONA GŁÓWNA - Mobilny Serwis Rowerów Warszawa i ...",
+        "url": "https://mobilnyserwisrowerow.pl/",
+        "displayedUrl": "https://mobilnyserwisrowerow.pl",
+        "description": "serwisu rowerowego w Warszawie? Zadzwoń! +48 699 715 060 – Firma Działa Mobilnie z ... Serwis Rowerowy Warszawa; Naprawa Rowerów Warszawa; Rowery Elektryczne ...",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 21
+      },
+      {
+        "title": "Serwis rowerowy Warszawa – Cennik",
+        "url": "https://cykle.com.pl/serwis-rowerowy-warszawa/",
+        "displayedUrl": "https://cykle.com.pl › serwis-rowerowy-warszawa",
+        "description": "Jeśli nie znalazłeś usługi która Cię interesuje, to koszt należy szacować według stawki godzinowej serwisanta, która wynosi 80 zł brutto. Najczęściej jednak ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 22
+      },
+      {
+        "title": "MARCELI – Sklep Rowerowy i Serwis ...",
+        "url": "https://marceli.waw.pl/",
+        "displayedUrl": "https://marceli.waw.pl",
+        "description": "Sklep Rowerowy i Serwis Rowerowy w Warszawie. Sprzedaż rowerów KTM i PUKY. W ofercie części rowerowe firm: Sram, RockShox, Shimano, PACO i innych.",
+        "emphasizedKeywords": [
+          "Sklep Rowerowy",
+          "Serwis Rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 23
+      },
+      {
+        "title": "Vuelta Serwis Rowerowy",
+        "url": "https://www.vuelta.waw.pl/",
+        "displayedUrl": "https://www.vuelta.waw.pl",
+        "description": "Adres: ul. Białobrzeska 28. 02-365 Warszawa - Ochota. Telefon: +48 512 00 90 ... Vuelta Serwis Rowerowy - Warszawa - Ochota - rowery na zamówienie & serwis © 2021.",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 24
+      },
+      {
+        "title": "Serwis rowerowy Warszawa",
+        "url": "https://ramasport.pl/serwis-rowerowy",
+        "displayedUrl": "https://ramasport.pl › serwis-rowerowy",
+        "description": "Serwis rowerowy. CENNIK PONIŻEJ. Rama Sport to nie tylko sklep dla zapalonych jednośladowców, ale także miejsce, w którym bez obaw możesz zostawić nam swój ...",
+        "emphasizedKeywords": [
+          "Serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 25
+      },
+      {
+        "title": "Serwis i sklep rowerowy Warszawa | JustBike",
+        "url": "https://justbike.pl/",
+        "displayedUrl": "https://justbike.pl",
+        "description": "Nasz serwis rowerowy znajdziesz w Warszawie przy ul. Liwieckiej 26A. Doświadczony zespół serwisantów przygotuje Twój rower na nadchodzący sezon, dokona wymiany ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 26
+      },
+      {
+        "title": "Serwis rowerowy Warszawa-Bemowo",
+        "url": "https://www.decathlon.pl/serwis-rowerowy-warszawa-bemowo_lp-VT4BPT",
+        "displayedUrl": "https://www.decathlon.pl › serwis-rowerowy-warszawa...",
+        "description": "Jeśli chcesz sprawdzić, czy Twój jednoślad jest w odpowiednim stanie technicznym — nie musimy Cię zapraszać. Nasi fachowcy są do Twojej dyspozycji w sklepie i ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 27
+      },
+      {
+        "title": "Serwis rowerowy Warszawa, naprawa i przeglądy - Sport Bike",
+        "url": "https://sport-bike.eu/Serwis-Uslugi/Serwis-rowerowy",
+        "displayedUrl": "https://sport-bike.eu › Serwis / Usługi",
+        "description": "Sport Bike to nie tylko sklep internetowy, gdzie znajdziesz wszystko dla kolarzy, ale także serwis rowerowy, w którym dokona się odnowa Twojego jednośladu.",
+        "emphasizedKeywords": [
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 28
+      },
+      {
+        "title": "KONTAKT - ByBikes sklep i serwis rowerowy Warszawa- ...",
+        "url": "https://www.bybikes.pl/pl/i/KONTAKT/13",
+        "displayedUrl": "https://www.bybikes.pl › KONTAKT",
+        "description": "Poniedziałek - Piątek 10:00 - 18:00 · Sobota - 10:00 - 15:00 · Niedziela - nieczynne. Kontakt telefoniczny ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "personalInfo": {
+          "location": "Poniedziałek - Piątek 10:00 - 18:00",
+          "jobTitle": "Sobota - 10:00 - 15:00",
+          "companyName": "Niedziela - nieczynne. Kontakt telefoniczny ...",
+          "rawText": "Poniedziałek - Piątek 10:00 - 18:00 · Sobota - 10:00 - 15:00 · Niedziela - nieczynne. Kontakt telefoniczny ..."
+        },
+        "type": "organic",
+        "position": 29
+      },
+      {
+        "title": "Sklep rowerowy, serwis, Warszawa Ursynów, rowery elektryczne",
+        "url": "https://www.legion-serwis.com.pl/",
+        "displayedUrl": "https://www.legion-serwis.com.pl",
+        "description": "Kierując się coraz większą rzeszą klientów, którzy nam zaufali, w marcu 2010 powstał nasz największy sklep rowerowy. Znajduje się on w dzielnicy Ursynów, przy ...",
+        "emphasizedKeywords": [
+          "sklep rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 30
+      },
+      {
+        "title": "Sklep i Serwis Rowerowy Warszawa – Gocław",
+        "url": "https://marceli.waw.pl/sklep-i-serwis-rowerowy-warszawa-goclaw/",
+        "displayedUrl": "https://marceli.waw.pl › sklep-i-serwis-rowerowy-wars...",
+        "description": "Sklep Rowerowy i Serwis Rowerowy w Warszawie. Sprzedaż rowerów KTM i PUKY. W ofercie części rowerowe firm: Sram, RockShox, Shimano, PACO i innych.",
+        "emphasizedKeywords": [
+          "Sklep Rowerowy",
+          "Serwis Rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 31
+      },
+      {
+        "title": "Sklep Rowerowy i Serwis Rowerowy Warszawa Białołęka ...",
+        "url": "https://activebike.pl/",
+        "displayedUrl": "https://activebike.pl",
+        "description": "Sklep Rowerowy i Serwis rowerowy Active Bike. KROSS - autoryzowany dealer. Rowery Kross, Cannondale, GT, Merida, Marin. Warszawa.",
+        "emphasizedKeywords": [
+          "Sklep Rowerowy",
+          "Serwis rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 32
+      },
+      {
+        "title": "Serwis :: Strona sklepu rowerowego 2 Kółka w Warszawie",
+        "url": "https://www.2kolka.com.pl/serwis.html",
+        "displayedUrl": "https://www.2kolka.com.pl › serwis",
+        "description": "Następne ». SERWIS ROWEROWY · PRZECHOWALNIA ROWERÓW. REGULAMIN I CENNIK SERWISU ROWEROWEGO 2 KÓŁKA: Coś nie działa tak jak powinno? Każdy rower co jakiś ...",
+        "emphasizedKeywords": [
+          "SERWIS ROWEROWY",
+          "SERWISU ROWEROWEGO"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 33
+      },
+      {
+        "title": "Kooza - serwis rowerowy Warszawa",
+        "url": "https://www.koozabikes.com/",
+        "displayedUrl": "https://www.koozabikes.com",
+        "description": "Zapraszamy do skorzystania z usług serwisu rowerowego. Informacje o lokalizacji i świadczonych usługach znajdziecie na stronie internetowej.",
+        "emphasizedKeywords": [
+          "serwisu"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 34
+      },
+      {
+        "title": "Serwis Rowerowy - Serwis Rowerowy Warszawa Ursynów",
+        "url": "https://serwis-rowerowy-bicycle-store.business.site/",
+        "displayedUrl": "https://serwis-rowerowy-bicycle-store.business.site",
+        "description": "Everything in a very friendly atmosphere and in a competent manner. At the end, they quoted such a low price for the service that I am ashamed to mention it ...",
+        "emphasizedKeywords": [
+          "service"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 35
+      },
+      {
+        "title": "Mobilny serwis rowerowy - Sportset",
+        "url": "https://sportset.pl/serwis-rowerowy/mobilny-serwis-rowerowy",
+        "displayedUrl": "https://sportset.pl › serwis-rowerowy › mobilny-serwis...",
+        "description": "SportSET.pl – sklep rowerowy. Prowadzimy sklep internetowy jak i sprzedaż stacjonarną w Warszawie. ul. Obozowa 95, 01-434 Warszawa Telefon: 22 836 41 44",
+        "emphasizedKeywords": [
+          "sklep rowerowy",
+          "Warszawie",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 36
+      },
+      {
+        "title": "BikeSalon.pl: Sklep Rowerowy Warszawa - Rowery, Akcesoria",
+        "url": "https://www.bikesalon.pl/",
+        "displayedUrl": "https://www.bikesalon.pl",
+        "description": "Znajdujemy się w Warszawie przy ulicy Ostrobramskiej 38B. Dysponujemy doświadczonym zespołem serwisantów, którzy szybko i skutecznie przygotują Twój rower ...",
+        "emphasizedKeywords": [
+          "Warszawie",
+          "rower"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 37
+      },
+      {
+        "title": "Sklep rowerowy Mokotów. Serwis JR Concept | Rowery ...",
+        "url": "http://www.jrconceptbikes.pl/",
+        "displayedUrl": "http://www.jrconceptbikes.pl",
+        "description": "Zapraszamy do naszego sklepu rowerowego na Mokotowie. Sprawdź atrakcyjne promocje i rabaty. Sklep i serwis rowerowy JR Concept - rowery elektryczne.",
+        "emphasizedKeywords": [
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 38
+      },
+      {
+        "title": "Profi Bike: Sklep i serwis rowerowy Warszawa - części i ...",
+        "url": "https://profibike.com.pl/",
+        "displayedUrl": "https://profibike.com.pl",
+        "description": "Zapraszamy do naszego sklepu rowerowego. W naszym asortymencie znajdą Państwo rowery damskie i męskie oraz niezbędne do nich akcesoria!",
+        "emphasizedKeywords": [
+          "rowery"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 39
+      },
+      {
+        "title": "Sport Bike: Sklep rowerowy Warszawa - części online ...",
+        "url": "https://sport-bike.eu/",
+        "displayedUrl": "https://sport-bike.eu",
+        "description": "Sport Bike to stacjonarny i internetowy sklep rowerowy z siedzibą w Warszawie. Oprócz profesjonalnych rowerów, części i akcesoriów dla kolarzy oferujemy ...",
+        "emphasizedKeywords": [
+          "sklep rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 40
+      },
+      {
+        "title": "Serwis rowerowy Warszawa Praga - naprawa, dobór",
+        "url": "https://www.bikesalon.pl/serwis-rowerowy-warszawa",
+        "displayedUrl": "https://www.bikesalon.pl › serwis-rowerowy-warszawa",
+        "description": "Serwis rowerowy w Warszawie. Ostrobramska 38b, 04-193 Warszawa. Warszawa - Praga Płd.",
+        "emphasizedKeywords": [
+          "Serwis rowerowy",
+          "Warszawie",
+          "Warszawa",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 41
+      },
+      {
+        "title": "Rowerowa Warszawa - miejski serwis rowerowy",
+        "url": "https://warszawa19115.pl/-/rowerowa-warszawa-miejski-serwis-rowerowy",
+        "displayedUrl": "https://warszawa19115.pl › rowerowa-warszawa-miejs...",
+        "description": "Szukasz informacji? Warszawa 19115 dysponuje obszerną bazą wiedzy, aby informować szybko i skutecznie.",
+        "emphasizedKeywords": [
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 42
+      },
+      {
+        "title": "CYKLE – rowery sklep, serwis Warszawa Powiśle – Sklep i ...",
+        "url": "https://cykle.com.pl/",
+        "displayedUrl": "https://cykle.com.pl",
+        "description": "Sklep rowerowy Warszawa Śródmieście · AC-Emotion Trager 28. 8 190,00 zł · rowery elektryczne · BiClou FatBike. 6 790,00 zł · rowery elektryczne · Cycle Denis ...",
+        "emphasizedKeywords": [
+          "Sklep rowerowy Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 43
+      },
+      {
+        "title": "Sklep i Serwis Rowerowy Warszawa RafBike - RafBike",
+        "url": "https://rafbike.pl/",
+        "displayedUrl": "https://rafbike.pl",
+        "description": "Profesjonalny sklep rowerowy RafBike. Rowery TREK, KELLYS. Stacjonarny salon i serwis w Warszawie ul. Radzymińska 338.",
+        "emphasizedKeywords": [
+          "sklep rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 44
+      },
+      {
+        "title": "Mobilny Serwis Rowerowy - Rowery",
+        "url": "https://um.warszawa.pl/waw/rowery/-/mobilny-serwis-rowerowy",
+        "displayedUrl": "https://um.warszawa.pl › waw › mobilny-serwis-rower...",
+        "description": "Z okazji Europejskiego Tygodnia Mobilności zapraszamy do skorzystania z usług Mobilnego Serwisu Rowerowego, który bezpłatnie wykona przegląd roweru, ...",
+        "emphasizedKeywords": [
+          "Serwisu"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 45
+      },
+      {
+        "title": "Mobilny Serwis Rowerowy - Warszawa, dojazd do Klienta",
+        "url": "http://www.mobilnyserwisrowerowy.com/",
+        "displayedUrl": "http://www.mobilnyserwisrowerowy.com",
+        "description": "Wszystkie typy rowerów. Serwisujemy rowery szosowe, MTB, holenderskie, ostre koła, BMX, składane i dziecięce. · Przeglądy. Przygotowanie roweru do nowego sezonu ...",
+        "emphasizedKeywords": [
+          "rowery"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 46
+      },
+      {
+        "title": "DOBRY SERWIS ROWEROWY",
+        "url": "https://rowerowyserwis.com/",
+        "displayedUrl": "https://rowerowyserwis.com",
+        "description": "DOBRY SERWIS ROWEROWY. ... Tu jesteśmy. Wyświetl większą mapę. ul. Jana Kozietulskiego 2 01-571 Warszawa info@rowerowyserwis.com.",
+        "emphasizedKeywords": [
+          "SERWIS ROWEROWY",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 47
+      },
+      {
+        "title": "Serwis i sklep rowerowy Bike 2 Door Warszawa",
+        "url": "https://bike2door.waw.pl/",
+        "displayedUrl": "https://bike2door.waw.pl",
+        "description": "Serwis rowerowy (także mobilny) i sklep, który dla Twojej wygody i komfortu działa na terenie Grodziska Mazowieckiego, Warszawy i okolic.",
+        "emphasizedKeywords": [
+          "Serwis rowerowy",
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 48
+      },
+      {
+        "title": "Serwis rowerowy - naprawa rowerów Warszawa",
+        "url": "https://skleprowerowy.pl/content/serwis-rowerowy",
+        "displayedUrl": "https://skleprowerowy.pl › content › serwis-rowerowy",
+        "description": "Nasi mechanicy z serwisów przy ul. Broniewskiego 7 oraz Warszawskiej 10 w Łomiankach regularnie uczestniczą w szkoleniach organizowanych przez Shimano.",
+        "emphasizedKeywords": [
+          "serwisów"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 49
+      },
+      {
+        "title": "Serwis Rowery",
+        "url": "https://www.nartyrowery.warszawa.pl/serwis-rowery.php",
+        "displayedUrl": "https://www.nartyrowery.warszawa.pl › serwis-rowery",
+        "description": "ul.Nowowiejska 10 00-653 Warszawa. Formularz kontaktowy. Imię i nazwisko. Adres e-mail. Numer telefonu. Wyślij wiadomość. Treść wiadomości. Ładowanie. Zamknij ...",
+        "emphasizedKeywords": [
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 50
+      },
+      {
+        "title": "Mobilny Serwis Rowerowy i wiele więcej - Rowery",
+        "url": "https://um.warszawa.pl/waw/rowery/-/mobilny-serwis-rowerowy-bezplatny",
+        "displayedUrl": "https://um.warszawa.pl › waw › mobilny-serwis-rower...",
+        "description": "9 cze 2021 — Do końca września na ulicach Warszawy działa bezpłatny serwis rowerowy organizowany w ramach programu Aktywny Warszawiak.",
+        "emphasizedKeywords": [
+          "Warszawy",
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 51
+      },
+      {
+        "title": "Lotny Serwis Rowerowy | Warsaw",
+        "url": "https://www.facebook.com/serwisoflovers/?locale=pl_PL",
+        "displayedUrl": "https://www.facebook.com › serwisoflovers",
+        "description": "Lotny Serwis Rowerowy, Warszawa. 1024 osoby lubią to · 25 osób mówi o tym · 186 użytkowników tu było. Serwis rowerów górskich oraz miejskich. Możliwość...",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "personalInfo": {
+          "location": "Lotny Serwis Rowerowy, Warszawa. 1024 osoby lubią to",
+          "jobTitle": "25 osób mówi o tym",
+          "companyName": "186 użytkowników tu było. Serwis rowerów górskich oraz miejskich. Możliwość...",
+          "rawText": "Lotny Serwis Rowerowy, Warszawa. 1024 osoby lubią to · 25 osób mówi o tym · 186 użytkowników tu było. Serwis rowerów górskich oraz miejskich. Możliwość..."
+        },
+        "type": "organic",
+        "position": 52
+      },
+      {
+        "title": "Ramasport: Rowery Kross, Kellys, Le Grand, Merida ...",
+        "url": "https://ramasport.pl/",
+        "displayedUrl": "https://ramasport.pl",
+        "description": "Zapraszamy do sklepu rowerowego jak i komisu narciarskiego Ramasport z Warszawy! W asortymencie m.in. rowery Kross czy zestawy nart.",
+        "emphasizedKeywords": [
+          "Warszawy",
+          "rowery"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 53
+      },
+      {
+        "title": "Wawa Bike sklep rowerowy",
+        "url": "http://www.wawabike.pl/",
+        "displayedUrl": "http://www.wawabike.pl",
+        "description": "Wawa Bike to również profesjonalny serwis rowerowy. Naprawiamy wszystkie typy rowerów. Serwisujemy rowery szosowe, górskie, miejskie i dziecięce. Świadczymy ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 54
+      },
+      {
+        "title": "Mobilny serwis rowerowy Konstancin Warszawa, Naprawa ...",
+        "url": "https://www.mobilnyserwisrowerowy.waw.pl/",
+        "displayedUrl": "https://www.mobilnyserwisrowerowy.waw.pl",
+        "description": "Mobilny serwis rowerowy Konstancin Warszawa to także serwis sprzętu rehabilitacyjnego. Oferujemy kompleksowe naprawy, gwarancję na wykonane usługi i stały ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 55
+      },
+      {
+        "title": "10 Najlepszych serwisy rowerowe w Warszawa - StarOfService",
+        "url": "https://www.starofservice.pl/panstwo/mazowieckie/warszawa/warszawa/naprawa-rowerow",
+        "displayedUrl": "https://www.starofservice.pl › Mazowieckie › Warszawa",
+        "description": "Zatrudniaj najlepszych serwisy rowerowe w Warszawa · 1. Nec Sport. Serwis Rowerowy · 2. Kołociebie-Rowery. Rowery · 3. Sklep Sportowy Dehnel Sport · 4. By The ...",
+        "emphasizedKeywords": [
+          "serwisy rowerowe",
+          "Warszawa",
+          "Serwis Rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 56
+      },
+      {
+        "title": "Serwis narciarski i rowerowy w Warszawie.",
+        "url": "https://psstrefaoutdoor.pl/warszawa/",
+        "displayedUrl": "https://psstrefaoutdoor.pl › warszawa",
+        "description": "Jeśli szukasz profesjonalnego serwisu narciarskiego w Warszawie, zapraszamy do sklepu górskiego Polar Sport, który mieści się przy ulicy Pereca 11. W naszym ...",
+        "emphasizedKeywords": [
+          "serwisu",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 57
+      },
+      {
+        "title": "ROADBIKE – Profesjonalny salon i serwis rowerowy w ...",
+        "url": "https://www.roadbike.pl/",
+        "displayedUrl": "https://www.roadbike.pl",
+        "description": "roadbike magazynowa sklep rowerowy serwis rowerowy warszawa. ROADBIKE WARSZAWA. PONAD 400 ROWERÓW OD RĘKI. Przewiń w dół. szybka wysyłka. Produkty dostępne w ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 58
+      },
+      {
+        "title": "Sklep rowerowy Warszawa",
+        "url": "https://www.bikeatelier.pl/content/60-warszawa",
+        "displayedUrl": "https://www.bikeatelier.pl › Nasze sklepy",
+        "description": "Sklep rowerowy Warszawa Bike Atelier, rowery Merida, Cube, PUKY, Cannondale i inne... akcesoria i odzież rowerowa, kaski rowerowe, buty na rower...",
+        "emphasizedKeywords": [
+          "Sklep rowerowy Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 59
+      },
+      {
+        "title": "Dobry serwis rowerowy w Warszawie",
+        "url": "https://roweroweporady.pl/f/topic/131-dobry-serwis-rowerowy-w-warszawie/",
+        "displayedUrl": "https://roweroweporady.pl › ... › Serwisowe Porady",
+        "description": "7 lip 2015 — Jeśli macie dobre doświadczenia z serwisami rowerowymi w Warszawie, wpisujcie swoje uwagi. :-) Ja mogę polecić: Biker Studio, ...",
+        "emphasizedKeywords": [
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 60
+      },
+      {
+        "title": "Profesjonalny Serwis Rowerowy: Rowery – BikeServie",
+        "url": "http://bikeservice.com.pl/",
+        "displayedUrl": "http://bikeservice.com.pl",
+        "description": "Specjalnie dla Was wdrożyliśmy usługę transportu door2door na terenie Warszawy i bliskiej okolicy. Zamówienia przyjmujemy przez aplikację – BikeService.",
+        "emphasizedKeywords": [
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 61
+      },
+      {
+        "title": "Velogram | Serwis rowerów i nart warszawa białołęka",
+        "url": "https://velogram.pl/",
+        "displayedUrl": "https://velogram.pl",
+        "description": "Całe swoje życie zawodowe związałem z rowerami, najpierw jako zawodnik, potem sprzedawca i mechanik rowerowy także podczas wyścigów kolarskich w całej Europie.",
+        "emphasizedKeywords": [
+          "rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 62
+      },
+      {
+        "title": "Lovebike – Z miłości do rowerów",
+        "url": "https://skleprowerowy.warszawa.pl/",
+        "displayedUrl": "https://skleprowerowy.warszawa.pl",
+        "description": "Kondratowicza 22, 03-285 Warszawa / pn-pt 17:00-19:00, sob: 12.00-16.00; sklep@lovebike.pl; 665975005. Lovebike. All Categories, Amortyzatory, Bagażniki ...",
+        "emphasizedKeywords": [
+          "Warszawa",
+          "sklep"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 63
+      },
+      {
+        "title": "Serwis rowerów/Serwis amortyzatorów",
+        "url": "https://kazoora.pl/pl/i/Serwis-rowerowSerwis-amortyzatorow/13",
+        "displayedUrl": "https://kazoora.pl › Serwis-rowerowSerwis-amortyzato...",
+        "description": "Zapraszamy do naszego serwisu rowerów i amortyzatorów w Warszawie ... Kompleksowy Serwis Rowerowy dla Wszystkich Typów Rowerów Specjalizujemy się w profesjonalnym ...",
+        "emphasizedKeywords": [
+          "Warszawie",
+          "Serwis Rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 64
+      },
+      {
+        "title": "Sklep rowerowy Bielany - bikerStudio – kolorowe ostre koło",
+        "url": "https://bikerstudio.com.pl/pl/i/Sklep-rowerowy-Bielany/35",
+        "displayedUrl": "https://bikerstudio.com.pl › Sklep-rowerowy-Bielany",
+        "description": "Serwis rowerowy Żoliborz. Skup rowerów Warszawa. Malowanie roweru Warszawa. Rowery elektryczne Warszawa. Rowery szosowe Warszawa. Rowery używane Warszawa. Ostre ...",
+        "emphasizedKeywords": [
+          "Serwis rowerowy",
+          "Warszawa",
+          "Warszawa",
+          "Warszawa",
+          "Warszawa",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 65
+      },
+      {
+        "title": "achtenrower: O NAS",
+        "url": "https://www.achtenrower.pl/",
+        "displayedUrl": "https://www.achtenrower.pl",
+        "description": "rowery ochota,rowery,sklep rowerowy warszawa ochota,naprawa rowerów warszawa ochota,sprzedaż rowerów warszawa ochota,części akcesoria rowerowe ochota ...",
+        "emphasizedKeywords": [
+          "sklep rowerowy warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 66
+      },
+      {
+        "title": "Serwis rowerowy Warszawa, Ursynów",
+        "url": "https://www.legion-serwis.com.pl/oferta/serwis-rowerowy/",
+        "displayedUrl": "https://www.legion-serwis.com.pl › oferta › serwis-ro...",
+        "description": "Legion Serwis (Ursynów, Warszawa) - polecamy nasz serwis rowerowy. Świadczymy profesjonalne usługi naprawy, regulacji oraz inne. Zapraszamy!",
+        "emphasizedKeywords": [
+          "Warszawa",
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 67
+      },
+      {
+        "title": "Serwis Rowerowy \"Po Godzinach\" Warszawa Bemowo ...",
+        "url": "https://serwis-rowerowy-po-godzinach.business.site/",
+        "displayedUrl": "https://serwis-rowerowy-po-godzinach.business.site",
+        "description": "The entire service at a good price. I will become a regular customer. I recommend! (Original) Serwis roweru elektryka. Przegląd z regulacją i gruntownym ...",
+        "emphasizedKeywords": [
+          "service",
+          "Serwis"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 68
+      },
+      {
+        "title": "Sąsiedzki Serwis Rowerowy i Narciarski - Facebook",
+        "url": "https://www.facebook.com/sasiedzkiserwisrowerowytarchominibialoleka/",
+        "displayedUrl": "https://www.facebook.com › sasiedzkiserwisrowerowy...",
+        "description": "Sąsiedzki Serwis Rowerowy i Narciarski - Tarchomin i Białołęka, Warsaw, Poland. 656 likes · 5 were here. Mały, kameralny serwis rowerowy i ręczny serwis...",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy",
+          "Warsaw",
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 69
+      },
+      {
+        "title": "Ósma Szprycha – Serwis i Sklep Rowerowy Warszawa",
+        "url": "https://www.osmaszprycha.pl/",
+        "displayedUrl": "https://www.osmaszprycha.pl",
+        "description": "Serwis i sklep rowerowy na Warszawskim Bemowie. Zjedź do nas prosto ze ścieżki rowerowej – Połczyńska 75!",
+        "emphasizedKeywords": [
+          "sklep rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 70
+      },
+      {
+        "title": "Rowery Białołęka: Sklep rowerowy Warszawa",
+        "url": "https://rowerybialoleka.com.pl/",
+        "displayedUrl": "https://rowerybialoleka.com.pl",
+        "description": "Odwiedzając nasz sklep z rowerami na ul. Płochocińskiej 98B w Warszawie, możesz osobiście wypróbować wybrany rower. Niejednokrotnie spotkaliśmy się z sytuacją, ...",
+        "emphasizedKeywords": [
+          "sklep",
+          "Warszawie",
+          "rower"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 71
+      },
+      {
+        "title": "Warszawo, gdzie naprawić rower? 10 najlepszych serwisów",
+        "url": "https://mowianamiescie.pl/artykuly/3156-warszawo-gdzie-naprawic-rower-10-najlepszych-serwisow",
+        "displayedUrl": "https://mowianamiescie.pl › artykuly › 3156-warszaw...",
+        "description": "Warszawo, gdzie naprawić ... serwis rowerowy. Jak jest naprawdę? Niestety – różnie. Kierując się opiniami i własnym doświadczeniem, przygotowaliśmy dla Was ...",
+        "emphasizedKeywords": [
+          "Warszawo",
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 72
+      },
+      {
+        "title": "Mobilny Serwis Rowerowy Warszawa | Wydarzenia rowerowe ...",
+        "url": "https://mobilny-serwis-rowerowy.pl/",
+        "displayedUrl": "https://mobilny-serwis-rowerowy.pl",
+        "description": "Mobilny Serwis Rowerowy dla firm - Wydarzenia rowerowe dla firm i parków biurowych na ternie Warszawy i całej Polski.",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy",
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 73
+      },
+      {
+        "title": "serwis rowerowy w lokalizacji ul. Chodecka, Warszawa ...",
+        "url": "https://panoramafirm.pl/serwis_rowerowy/mazowieckie,,warszawa,targ%C3%B3wek,chodecka",
+        "displayedUrl": "https://panoramafirm.pl › ... › Warszawa › Targówek",
+        "description": "152 firmy dla zapytania serwis_rowerowy ✦ Sprawdź listę najlepszych firm dla Twojego zapytania w lokalizacji: woj. mazowieckie, Warszawa, Targówek, ...",
+        "emphasizedKeywords": [
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 74
+      },
+      {
+        "title": "Serwis rowerowy, rowery Warszawa - SportSales",
+        "url": "http://www.konaworld.pl/menu,29,serwis_rowerowy",
+        "displayedUrl": "http://www.konaworld.pl › menu,29,serwis_rowerowy",
+        "description": "Wszystkie rowery od czasu do czasu wymagają przeglądu serwisowego. Jeżeli chcesz przygotować swój rower do sezonu, planujesz wycieczki, wyścigi lub treningi ...",
+        "emphasizedKeywords": [
+          "rowery",
+          "rower"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 75
+      },
+      {
+        "title": "Otwarty Warsztat Rowerowy: Strona główna",
+        "url": "https://otwartywarsztatrowerowy.pl/",
+        "displayedUrl": "https://otwartywarsztatrowerowy.pl",
+        "description": "22 maj 2023 — ... Serwis Rowerowy na imprezy · Rowery firmowe · Lekcje rowerowe. Wspieraj nas ... Warszawa. info@mierzwysoko.org.pl · +48 506 693 555. Godziny ...",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 76
+      },
+      {
+        "title": "sklep rowerowy Megastart",
+        "url": "http://www.megastart.pl/",
+        "displayedUrl": "http://www.megastart.pl",
+        "description": "Sklep rowerowy Megastart, rowery, części i akcesoria, warszawa.",
+        "emphasizedKeywords": [
+          "Sklep rowerowy",
+          "warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 77
+      },
+      {
+        "title": "Sklep rowerowy Warszawa - rowery Marin, rowery używane ...",
+        "url": "https://bike-project.pl/",
+        "displayedUrl": "https://bike-project.pl",
+        "description": "Specjalizujemy się w rowerach miejskich, holenderskich, komfortowych. Można u nas znaleźć rowery nowe i używane renomowanych marek.",
+        "emphasizedKeywords": [
+          "rowery"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 78
+      },
+      {
+        "title": "Przegląd i naprawa rowerów za darmo w Warszawie. W ...",
+        "url": "https://warszawa.naszemiasto.pl/przeglad-i-naprawa-rowerow-za-darmo-w-warszawie-w-stolicy/ar/c1-9454401",
+        "displayedUrl": "https://warszawa.naszemiasto.pl › przeglad-i-naprawa-...",
+        "description": "17 wrz 2023 — Mobilny Serwis Rowerowy organizowany w ramach Europejskiego Tygodnia Mobilności to nie tylko ukłon w stronę rowerzystów, ale również zachęta dla ...",
+        "emphasizedKeywords": [
+          "Serwis Rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 79
+      },
+      {
+        "title": "Mobilny serwis rowerowy Warszawa",
+        "url": "https://bike2box.com/mobilny-serwis-rowerowy-warszawa",
+        "displayedUrl": "https://bike2box.com › mobilny-serwis-rowerowy-war...",
+        "description": "BikeDay to impreza rowerowa skierowana do pracowników firm i najemców budynków biurowych. Od 2015 roku nasz mobilny serwis rowerowy obsługuje setki firm na ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 80
+      },
+      {
+        "title": "serwis rowerowy - Warszawa - sprawdź kategorię Usługi",
+        "url": "https://www.olx.pl/uslugi/warszawa/q-serwis-rowerowy/",
+        "displayedUrl": "https://www.olx.pl › Usługi › Mazowieckie",
+        "description": "Skorzystaj z największego serwisu ogłoszeniowego w Polsce! serwis rowerowy - Warszawa - kupuj lub sprzedawaj jeszcze wygodniej w kategorii Usługi!",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 81
+      },
+      {
+        "title": "Home | Fixes Bikes Sklep i Serwis Rowerowy",
+        "url": "https://fixesbikessklep.wixsite.com/fixesbikes",
+        "displayedUrl": "https://fixesbikessklep.wixsite.com › fixesbikes",
+        "description": "Home: OpeningHours. Kontakt-Lokalizacja. Warszawa. Ostródzka 85a Białołęka Poland 03-289. fixesbikessklep@gmail.com. Serwis : 666-526-676 Sklep: 602-538-918. ​.",
+        "emphasizedKeywords": [
+          "Warszawa",
+          "Serwis",
+          "Sklep"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 82
+      },
+      {
+        "title": "Serwis - Specializedwarsaw.pl",
+        "url": "https://specializedwarsaw.pl/uslugi/serwis/",
+        "displayedUrl": "https://specializedwarsaw.pl › uslugi › serwis",
+        "description": "... rower będzie gotowy na najbliższy wyścig, codzienny trening, niedzielną przejażdżkę lub codzienna jazdę do pracy. Nasz serwis z wykwalifikowanymi ...",
+        "emphasizedKeywords": [
+          "rower",
+          "serwis"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 83
+      },
+      {
+        "title": "Serwis Rowerowy Trirent Fort Mokotóww",
+        "url": "https://trirent.pl/serwis-rowerowy-warszawa-mokotow/30-serwis-rowerowy-basic.html",
+        "displayedUrl": "https://trirent.pl › SERWIS",
+        "description": "... serwis rowerowy w sklepie internetowym Trirent realizujemy po wcześniejszym umówieniu wizyty ... 02-634 Warszawa. Poniedziałek - Piątek 12:00 - 19:00. Informacje.",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 84
+      },
+      {
+        "title": "Sklep oraz serwis rowerowy w Warszawie. Salon rowerowy ...",
+        "url": "https://altsport.pl/",
+        "displayedUrl": "https://altsport.pl",
+        "description": "Alt sport to nie tylko sklep rowerowy. Alt sport to również serwis rowerowy w Warszawie, serwis narciarski, serwis snowboardowy. Salon rowerowy Merida.",
+        "emphasizedKeywords": [
+          "sklep rowerowy",
+          "serwis rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 85
+      },
+      {
+        "title": "Serwis rowerowy - Promocje Media Expert",
+        "url": "https://www.mediaexpert.pl/lp,serwis-rowerowy",
+        "displayedUrl": "https://www.mediaexpert.pl › lp,serwis-rowerowy",
+        "description": "Serwis rowerowy W naszym sklepie internetowym znajdziesz szeroką ofertę sprzętu AGD, RTV, audio, telefony, tablety, telewizory w bardzo atrakcyjnych cenach!",
+        "emphasizedKeywords": [
+          "Serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 86
+      },
+      {
+        "title": "Sklepy rowerowe WARSZAWA. Rowery w miejscowości ...",
+        "url": "https://sklepy.bikeworld.pl/sklepy/wszystkie/wszystkie/WARSZAWA",
+        "displayedUrl": "https://sklepy.bikeworld.pl › wszystkie › wszystkie",
+        "description": "... serwisu rowerów po profesjonalny bikefitting. W sklepach na mapie Warszawy, rozlokowanych w takich dzielnicach jak chociażby Żoliborz, Praga, Mokotów ...",
+        "emphasizedKeywords": [
+          "serwisu",
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 87
+      },
+      {
+        "title": "PROFESJONALNY SERWIS ROWEROWY",
+        "url": "https://www.shimanoservicecenter.com/pl/sprzedawcy/profesjonalny-serwis-rowerowy-warszawa",
+        "displayedUrl": "https://www.shimanoservicecenter.com › sprzedawcy",
+        "description": "Szukasz najlepszego na świecie serwisu rowerowego? Adres. UL. DERKACZY 34 04-973. WARSZAWA Poland. +48795239999 · kontakt@bikeservice.",
+        "emphasizedKeywords": [
+          "serwisu rowerowego",
+          "WARSZAWA"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 88
+      },
+      {
+        "title": "Serwis rowerowy",
+        "url": "http://www.rowery.com.pl/serwis-rowerowy/",
+        "displayedUrl": "http://www.rowery.com.pl › serwis-rowerowy",
+        "description": "Zamiany 12, 02-786 Warszawa mail: sklep@rowery.com.pl tel: (22) 644-29-02 fax: (22) 644-29-08 Godziny otwarcia: pn-pt: 11-19; so: 10-14. Serwis rowerowy. W ...",
+        "emphasizedKeywords": [
+          "Warszawa",
+          "sklep",
+          "rowery",
+          "Serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 89
+      },
+      {
+        "title": "Serwis",
+        "url": "https://veloart.cc/serwis/",
+        "displayedUrl": "https://veloart.cc › serwis",
+        "description": "Veloart serwis Warszawa. Veloart serwis Kraków. Veloart Warszawa. Plac Bernardyński 2 ... Sklep rowerowy • studio bikefitting • serwis rowerowy. Veloart jest ...",
+        "emphasizedKeywords": [
+          "Warszawa",
+          "Warszawa",
+          "Sklep rowerowy",
+          "serwis rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 90
+      },
+      {
+        "title": "Lotny Serwis Rowerowy - Prv.pl",
+        "url": "https://lotnyserwis.prv.pl/",
+        "displayedUrl": "https://lotnyserwis.prv.pl",
+        "description": "Kobielską 64 na Warszawskim grochowie i pogadać, pomarudzić, popytać. Zajmuję się serwisem rowerów wszelkiego typu, czyli można przyjść ze składakiem, rowerem ...",
+        "emphasizedKeywords": [
+          "serwisem"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 91
+      },
+      {
+        "title": "Darmowy serwis rowerowy dla mieszkańców Warszawy. ...",
+        "url": "https://www.eska.pl/warszawa/darmowy-serwis-rowerowy-dla-mieszkancow-warszawy-przez-caly-tydzien-w-kilku-dzielnicach-21-09-aa-WHbk-Wm2M-7UqL.html",
+        "displayedUrl": "https://www.eska.pl › Warszawa",
+        "description": "22 wrz 2023 — Od 16 września przez tydzień można za darmo serwisować rowery w Warszawie. Miasto organizuje Bezpłatny Serwis Rowerowy – w siedmiu ...",
+        "emphasizedKeywords": [
+          "Warszawie",
+          "Serwis Rowerowy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 92
+      },
+      {
+        "title": "Sklep rowerowy Wektor",
+        "url": "https://www.wektorrowery.pl/",
+        "displayedUrl": "https://www.wektorrowery.pl",
+        "description": "Sklep rowerowy Wektor w Warszawie, rowery cube, ktm, merida, kross,",
+        "emphasizedKeywords": [
+          "Sklep rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 93
+      },
+      {
+        "title": "Mobilny serwis rowerowy Bike 2 Door Warszawa",
+        "url": "https://bike2door.waw.pl/serwis",
+        "displayedUrl": "https://bike2door.waw.pl › serwis",
+        "description": "Mobilny serwis rowerowy, który dla Twojej wygody i komfortu działa na terenie Warszawy i okolic. Dostarczenie roweru do serwisu już nigdy nie będzie dla ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy",
+          "Warszawy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 94
+      },
+      {
+        "title": "Sklep i serwis rowerowy w Warszawie. Odwiedź nas na ...",
+        "url": "https://www.t-bike.pl/contact",
+        "displayedUrl": "https://www.t-bike.pl › contact",
+        "description": "Sklep rowerowy stacjonarny mieści się w Warszawie przy ul. Jastrzębowskiego 22.",
+        "emphasizedKeywords": [
+          "Sklep rowerowy",
+          "Warszawie"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 95
+      },
+      {
+        "title": "Rowery Bielany: Sklep rowerowy - Warszawa - Bielany",
+        "url": "https://rowerybielany.pl/",
+        "displayedUrl": "https://rowerybielany.pl",
+        "description": "Miejskie/Trekking · 5 999,00 zł. CANNONDALE Tesoro 1 2021 Quick view. 5 999,00 zł. CANNONDALE Tesoro 1 · 6 499,00 zł. Merida M-BIKE E_CITY 828 LADY MATT BLACK ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "personalInfo": {
+          "location": "Miejskie/Trekking",
+          "jobTitle": "5 999,00 zł. CANNONDALE Tesoro 1 2021 Quick view. 5 999,00 zł. CANNONDALE Tesoro 1",
+          "companyName": "6 499,00 zł. Merida M-BIKE E_CITY 828 LADY MATT BLACK ...",
+          "rawText": "Miejskie/Trekking · 5 999,00 zł. CANNONDALE Tesoro 1 2021 Quick view. 5 999,00 zł. CANNONDALE Tesoro 1 · 6 499,00 zł. Merida M-BIKE E_CITY 828 LADY MATT BLACK ..."
+        },
+        "type": "organic",
+        "position": 96
+      },
+      {
+        "title": "NaŚcieżce.pl - Sklep i serwis rowerowy",
+        "url": "https://nasciezce.pl/",
+        "displayedUrl": "https://nasciezce.pl",
+        "description": "Sklep i serwis rowerowy Warszawa Bemowo. Rowery miejskie, szosowe, MTB i trekingowe. Warszawa Bemowo ul. Połczyńska 42. Jelonki, Rowery Kross, FUJI, ...",
+        "emphasizedKeywords": [
+          "serwis rowerowy Warszawa"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 97
+      },
+      {
+        "title": "Serwis rowerowy Saska Kępa / Praga Południe Warszawa",
+        "url": "https://dehnelsport.pl/serwis-rowerowy-warszawa/",
+        "displayedUrl": "https://dehnelsport.pl › serwis-rowerowy-warszawa",
+        "description": "KOŁA · zaplatanie koła – 100 zł · rozplecenie koła – 60 zł · centrowanie koła – od 35-55 zł · wymiana szprychy + centrowanie – 55-75 zł · serwis piasty przód – ...",
+        "emphasizedKeywords": [
+          "serwis"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 98
+      }
+    ],
+    "peopleAlsoAsk": [],
+    "customData": {
+      "pageTitle": "serwis rowerowy warszawa - Szukaj w Google"
+    }
+  }
+]
