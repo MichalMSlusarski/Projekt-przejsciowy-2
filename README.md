@@ -1,4 +1,4 @@
-# Projekt-przejsciowy-2
+# Badanie korelacji między głównymi wskaźnikami optymalizacji stron internetowych a ich pozycją w wynikach wyszukiwania
 
 ### Cel projektu
 
