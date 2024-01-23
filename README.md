@@ -10,6 +10,8 @@ Korzystając z biblioteki apify_client do automatycznego wykonywania zapytań na
 
 ### Przekształcanie danych
 
+Do uzupełnienia
+
 ### Google Lighthouse
 
 Do zbadania parametrów strony korzystamy z API narzędzia Google Lighthouse. To otwarte narzędzie do analizy wydajności i jakości stron internetowych.
