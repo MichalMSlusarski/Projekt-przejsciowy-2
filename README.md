@@ -37,37 +37,18 @@ Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi 
 
 #### Wykresy punktowe zależności między zmienną average_position, a poszczególnymi zmiennymi
 
-```{r, message = FALSE}
-theme_set(theme_pubr())
-
-wykres1 <- ggarrange(av1, av2, av3, av4, 
-                    ncol = 2, nrow = 2)
-```
-
 ![img](Wykresy/average_position-regression-line.png)
 
 #### Zmiana z linii regresji na linię trendu obliczoną na podstawie punktów na wykresach
 
-```{r, message = FALSE}
-wykres1.2 <- ggarrange(av1.2, av2.2, av3.2, av4.2, 
-                     ncol = 2, nrow = 2) 
-```
 ![img](Wykresy/average_position-trend-line.png)
 
 #### Wykresy punktowe zależności między zmienną weighted_position, a poszczególnymi zmiennymi
 
-```{r, message = FALSE}
-wykres2 <- ggarrange(we1, we2, we3, we4, 
-                     ncol = 2, nrow = 2)
-```
 ![img](Wykresy/weighted_position-regression-line.png)
 
 #### Zmiana z linii regresji na linię trendu obliczoną na podstawie punktów na wykresach
 
-```{r, message = FALSE}
-wykres2.2 <- ggarrange(we1.2, we2.2, we3.2, we4.2, 
-                       ncol = 2, nrow = 2) 
-```
 ![img](Wykresy/weighted_position-trend-line.png)
 
 ### Konkluzje
