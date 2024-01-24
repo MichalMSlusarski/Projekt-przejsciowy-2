@@ -12,7 +12,7 @@ Do przeprowadzenia agregacji korzystamy ze scrapera z platformy Apify, który wy
 
 ### Przekształcanie danych
 
-Z każdego zapisanego wyszukiwania w formacie JSON, dokonujemy ekstrakcji adresu URL oraz przypisanej mu pozycji. 
+Z każdego zapisanego wyszukiwania w formacie JSON, dokonujemy ekstrakcji adresu URL oraz przypisanej mu pozycji. Następnie obliczona zostaje średnia pozycja **average_position**. Jeśli wśród 5 wyników wyszukiwania dany adres URL znajdował się na pozycjach: 4, 5, 4, 5, 5 to jego `average_position' wyniesie 4.6. Nie jest tu jednak uwzględnione ile razy na 100 wszystkich prób wyszukiwania dany URL się pojawił. Do ujęcia tej wartości posługujemy się wagą - **weight**. Waga oznacza udział danego URL we wszystkich próbach wyszukiwania. Waga 1 oznacza, że dany link pojawił się za każdym razem, gdy wyszukiwano hasło *serwis rowerowy warszawa*. Waga przemnożona przez średnią pozycję, daje pozycję zważoną - **weighted_position**.
 
 |url                                                                                                                                                 |average_position|url_count|weight|weighted_position|
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|------|-----------------|
