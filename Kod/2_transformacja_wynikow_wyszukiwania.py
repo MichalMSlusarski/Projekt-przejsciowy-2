@@ -36,7 +36,7 @@ for filename in os.listdir(folder_path):
         # Add the extracted data to the list
         aggregated_data.extend(extracted_data)
 
-csv_file_path = "C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\output_2.csv"
+csv_file_path = "C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\Dane\\output.csv"
 
 with open(csv_file_path, 'w', newline='') as csv_file:
     fieldnames = ['url', 'domain', 'position']
