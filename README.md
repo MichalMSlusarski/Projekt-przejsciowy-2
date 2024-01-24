@@ -28,7 +28,7 @@ Do uzupełnienia
 |https://sklep-naszosie.pl/                                                                                                                          |6.36            |100      |1     |6.36             |
 |https://beatbike.pl/                                                                                                                                |6.61            |100      |1     |6.61             |
 |https://sportset.pl/                                                                                                                                |8.24            |100      |1     |8.24             |
-|https://wygodnyrower.pl/aktualnosci/%F0%9F%91%8Bnowy-sklep-i-serwis-wygodnyrower-bielany/                                                           |8.76767676767677|99       |0.99  |8.8562           |
+|https://wygodnyrower.pl/aktualnosci/%F0%9F%91%8Bnowy-sklep-i-serwis-wygodnyrower-bielany/                                                           |8.76|99       |0.99  |8.8562           |
 |https://www.rowerywarszawa.pl/                                                                                                                      |10.34           |100      |1     |10.34            |
 
 ### Google Lighthouse
