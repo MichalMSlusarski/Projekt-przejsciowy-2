@@ -30,4 +30,170 @@ Działanie Google Lighthouse obejmuje kilka głównych obszarów analizy:
 
 Po analizie, Lighthouse generuje raport z wynikami, w którym przedstawia wyniki w postaci punktów procentowych dla każdego z obszarów oceny. Dzięki bezpośredniemu wywołaniu narzędzia przy pomocy API, jesteśmy w stanie otrzymać wyniki dla wszystkich badanych adresów. Wyniki zapisujemy w tabeli `lighthouse-output-full.csv`.
 
-### Analiza wyników
+### Analiza bazy danych
+Przystępujemy do wytworzonej wcześniej bazy danych. Naszym celem, będzie sprawdzenie korelacji pomiędzy poszczególnymi zmiennymi. W wyniku analizy docelowo chcemy znaleźć zmienne, które będą znacząco decydujące o pozycji strony w wyszukiwarce.
+
+### Użyte biblioteki
+
+```{r, message = FALSE, warning=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(ggpubr)
+library(knitr)
+```
+
+### Kod
+
+```{r}
+## Załadowanie pliku i sprawdzenie reczne korelacji
+
+site_db <- read.csv("C:/Users/mikdo/Downloads/lighthouse-output-full.csv")
+
+kor_perf_av <- cor.test(site_db$average_position, site_db$performance_score, method = "pearson")
+kor_best_av <- cor.test(site_db$average_position, site_db$best_practices_score, method = "pearson")
+kor_acc_av <- cor.test(site_db$average_position, site_db$accessibility_score, method = "pearson")
+kor_seo_av <- cor.test(site_db$average_position, site_db$seo_score, method = "pearson")
+
+kor_perf_we <- cor.test(site_db$weighted_position, site_db$performance_score, method = "pearson")
+kor_best_we <- cor.test(site_db$weighted_position, site_db$best_practices_score, method = "pearson")
+kor_acc_we <- cor.test(site_db$weighted_position, site_db$accessibility_score, method = "pearson")
+kor_seo_we <- cor.test(site_db$weighted_position, site_db$seo_score, method = "pearson")
+
+## stworzenie wykresów
+av1 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = performance_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = average_position, y = performance_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.60"),x=50,y=0.4,size=4)
+
+av1.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = performance_score)) +
+  geom_smooth(mapping = aes(x = average_position, y = performance_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.60"),x=50,y=0.4,size=4)
+
+av2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = best_practices_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = average_position, y = best_practices_score)) +
+  annotate(geom="text",label=("R = -0.19 p = 0.04451"),x=50,y=0.5,size=4)
+
+av2.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = best_practices_score)) +
+  geom_smooth(mapping = aes(x = average_position, y = best_practices_score)) +
+  annotate(geom="text",label=("R = -0.19 p = 0.04451"),x=50,y=0.5,size=4)
+
+av3 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = accessibility_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = average_position, y = accessibility_score)) +
+  annotate(geom="text",label=("R = -0.091 p = 0.3389"),x=50,y=0.5,size=4)
+
+av3.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = accessibility_score)) +
+  geom_smooth(mapping = aes(x = average_position, y = accessibility_score)) +
+  annotate(geom="text",label=("R = -0.091 p = 0.3389"),x=50,y=0.5,size=4)
+
+
+av4 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = seo_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = average_position, y = seo_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.6"),x=50,y=0.5,size=4)
+
+av4.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = average_position, y = seo_score)) +
+  geom_smooth(mapping = aes(x = average_position, y = seo_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.6"),x=50,y=0.5,size=4)
+
+we1 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = performance_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = weighted_position, y = performance_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.60"),x=50,y=0.4,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we1.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = performance_score)) +
+  geom_smooth(mapping = aes(x = weighted_position, y = performance_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.60"),x=50,y=0.4,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = best_practices_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = weighted_position, y = best_practices_score)) +
+  annotate(geom="text",label=("R = -0.19 p = 0.04451"),x=50,y=0.5,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we2.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = best_practices_score)) +
+  geom_smooth(mapping = aes(x = weighted_position, y = best_practices_score)) +
+  annotate(geom="text",label=("R = -0.19 p = 0.04451"),x=50,y=0.5,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we3 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = accessibility_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = weighted_position, y = accessibility_score)) +
+  annotate(geom="text",label=("R = -0.091 p = 0.3389"),x=50,y=0.5,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we3.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = accessibility_score)) +
+  geom_smooth(mapping = aes(x = weighted_position, y = accessibility_score)) +
+  annotate(geom="text",label=("R = -0.091 p = 0.3389"),x=50,y=0.5,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we4 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = seo_score)) +
+  geom_smooth(method = 'lm', mapping = aes(x = weighted_position, y = seo_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.6"),x=50,y=0.5,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+we4.2 <- ggplot(data = site_db) +
+  geom_point(mapping = aes(x = weighted_position, y = seo_score)) +
+  geom_smooth(mapping = aes(x = weighted_position, y = seo_score)) +
+  annotate(geom="text",label=("R = -0.05 p = 0.6"),x=50,y=0.5,size=4) +
+  coord_cartesian(xlim = c(1, 300))
+
+info <- data.frame(
+  Zmienna = c("Performance Score", "Best Practises", "Accessibility Score", "Seo Score"),
+  Average_Position = c("p = 0.6", "p = 0.04", "p = 0.33", "p = 0.6"),
+  Korelacja_zachodzi = c("NIE", "TAK", "NIE", "NIE"),
+  Weighted_Position = c("p = 0.77", "p = 0.01", "p = 0.6", "p = 0.6"),
+  Korelacja_zachodzi = c("NIE", "TAK", "NIE", "NIE")
+)
+kable(info)
+```
+
+Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi jedynie w przypadku zmiennej **best_practises**
+
+#### Wykresy punktowe zależności między zmienną average_position, a poszczególnymi zmiennymi
+
+```{r, message = FALSE}
+theme_set(theme_pubr())
+
+wykres1 <- ggarrange(av1, av2, av3, av4, 
+                    ncol = 2, nrow = 2)
+```
+
+#### Zmiana z linii regresji na linię trendu obliczoną na podstawie punktów na wykresach
+
+```{r, message = FALSE}
+
+### Linia trendu bazująca tylko na punktach
+
+wykres1.2 <- ggarrange(av1.2, av2.2, av3.2, av4.2, 
+                     ncol = 2, nrow = 2) 
+```
+
+#### Wykresy punktowe zależności między zmienną weighted_position, a poszczególnymi zmiennymi
+
+```{r, message = FALSE}
+wykres2 <- ggarrange(we1, we2, we3, we4, 
+                     ncol = 2, nrow = 2)
+```
+
+#### Zmiana z linii regresji na linię trendu obliczoną na podstawie punktów na wykresach
+
+```{r, message = FALSE}
+wykres2.2 <- ggarrange(we1.2, we2.2, we3.2, we4.2, 
+                       ncol = 2, nrow = 2) 
+```
+
+### Konkluzje
+
+Jak widać pomimo tego, że korelacja zachodzi tylko w przypadku zmiennej **best_practises_score**, to po wizualnej analizie wykresów można stwierdzić, że zmienna **seo_score** również ma znaczący wpływ na strony pozycjonowane najwyżej w wyszukiwaniach
