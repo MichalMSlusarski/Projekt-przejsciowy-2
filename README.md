@@ -12,7 +12,9 @@ Do przeprowadzenia agregacji korzystamy ze scrapera z platformy Apify, który wy
 
 ### Przekształcanie danych
 
-Za pomocą skryptu `transformacja_wyników_wyszukiwania.py` z każdego zapisanego wyszukiwania w formacie JSON, dokonujemy ekstrakcji adresu URL oraz przypisanej mu pozycji. Następnie obliczona zostaje średnia pozycja **average_position**. Jeśli wśród 5 wyników wyszukiwania dany adres URL znajdował się na pozycjach: 4, 5, 4, 5, 5 to jego `average_position' wyniesie 4.6. Nie jest tu jednak uwzględnione ile razy na 100 wszystkich prób wyszukiwania dany URL się pojawił. Do ujęcia tej wartości posługujemy się wagą - **weight**. Waga oznacza udział danego URL we wszystkich próbach wyszukiwania. Waga 1 oznacza, że dany link pojawił się za każdym razem, gdy wyszukiwano hasło *serwis rowerowy warszawa*. Waga przemnożona przez średnią pozycję, daje pozycję zważoną - **weighted_position**. Tak 
+Za pomocą skryptu `transformacja_wyników_wyszukiwania.py` z każdego zapisanego wyszukiwania w formacie JSON, dokonujemy ekstrakcji adresu URL oraz przypisanej mu pozycji i zapisujemy do pliku `output_2.csv`. Nazwa pliku była tymczasowa, ale już taka została.
+
+Plik zostaje załadowany przez program `grupowanie_wyników.py`. Za pomocą funkcji `groupby()`, wykonujemy operację grupowania wyników po adresie URL. Jednocześnie, na podstawie wyodrębnionej uprzednio pozycji, obliczona zostaje średnia pozycja danego URL **average_position**. Jeśli wśród 5 wyników wyszukiwania dany adres URL znajdował się na pozycjach: 4, 5, 4, 5, 5 to jego `average_position' wyniesie 4.6. Nie jest tu jednak uwzględnione ile razy na 100 wszystkich prób wyszukiwania dany URL się pojawił. Do ujęcia tej wartości posługujemy się wagą - **weight**. Waga oznacza udział danego URL we wszystkich próbach wyszukiwania. Waga 1 oznacza, że dany link pojawił się za każdym razem, gdy wyszukiwano hasło *serwis rowerowy warszawa*. Waga przemnożona przez średnią pozycję, daje pozycję zważoną - **weighted_position**. Tak przygotowane dane zapisujemy w tabeli `grouped_df.csv` (podgląd):
 
 |url                                                                                                                                                 |average_position|url_count|weight|weighted_position|
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|------|-----------------|
@@ -26,6 +28,9 @@ Za pomocą skryptu `transformacja_wyników_wyszukiwania.py` z każdego zapisaneg
 |https://sportset.pl/                                                                                                                                |8.24            |100      |1     |8.24             |
 |https://wygodnyrower.pl/aktualnosci/%F0%9F%91%8Bnowy-sklep-i-serwis-wygodnyrower-bielany/                                                           |8.76|99       |0.99  |8.8562           |
 |https://www.rowerywarszawa.pl/                                                                                                                      |10.34           |100      |1     |10.34            |
+
+
+
 
 ### Google Lighthouse
 
