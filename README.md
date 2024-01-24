@@ -173,9 +173,6 @@ wykres1 <- ggarrange(av1, av2, av3, av4,
 #### Zmiana z linii regresji na linię trendu obliczoną na podstawie punktów na wykresach
 
 ```{r, message = FALSE}
-
-### Linia trendu bazująca tylko na punktach
-
 wykres1.2 <- ggarrange(av1.2, av2.2, av3.2, av4.2, 
                      ncol = 2, nrow = 2) 
 ```
