@@ -16,7 +16,7 @@ Do uzupełnienia
 
 ### Google Lighthouse
 
-Do zbadania parametrów strony korzystamy z API narzędzia Google Lighthouse. To otwarte narzędzie do analizy wydajności i jakości stron internetowych.
+Do zbadania parametrów strony korzystamy z API narzędzia Google Lighthouse. To darmowe narzędzie do analizy wydajności i jakości stron internetowych.
 
 Działanie Google Lighthouse obejmuje kilka głównych obszarów analizy:
 
@@ -31,6 +31,7 @@ Działanie Google Lighthouse obejmuje kilka głównych obszarów analizy:
 Po analizie, Lighthouse generuje raport z wynikami, w którym przedstawia wyniki w postaci punktów procentowych dla każdego z obszarów oceny. Dzięki bezpośredniemu wywołaniu narzędzia przy pomocy API, jesteśmy w stanie otrzymać wyniki dla wszystkich badanych adresów. Wyniki zapisujemy w tabeli `lighthouse-output-full.csv`.
 
 ### Analiza bazy danych
+
 Przystępujemy do wytworzonej wcześniej bazy danych. Naszym celem, będzie sprawdzenie korelacji pomiędzy poszczególnymi zmiennymi. W wyniku analizy docelowo chcemy znaleźć zmienne, które będą znacząco decydujące o pozycji strony w wyszukiwarce.
 
 Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi jedynie w przypadku zmiennej **best_practises**
