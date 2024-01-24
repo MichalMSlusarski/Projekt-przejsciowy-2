@@ -47,6 +47,19 @@ Działanie Google Lighthouse obejmuje kilka głównych obszarów analizy:
 
 Po analizie, Lighthouse generuje raport z wynikami, w którym przedstawia wyniki w postaci punktów procentowych dla każdego z obszarów oceny. Dzięki bezpośredniemu wywołaniu narzędzia przy pomocy API, jesteśmy w stanie otrzymać wyniki dla wszystkich badanych adresów. Wyniki zapisujemy w tabeli `lighthouse-output-full.csv`.
 
+|url                                                                                                                                                 |weighted_position|performance_score|best_practices_score|accessibility_score|seo_score|
+|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------|--------------------|-------------------|---------|
+|https://wygodnyrower.pl/serwis/serwis-rowerowy-warszawa/                                                                                            |1                |0.95             |0.96                |0.79               |0.92     |
+|https://3gravity.pl/pl/                                                                                                                             |2.04             |0.81             |0.96                |0.95               |1        |
+|https://www.centrumrowerowe.pl/sklep-rowerowy-warszawa/                                                                                             |3.08             |0.66             |1                   |0.75               |1        |
+|https://skleprowerowy.pl/                                                                                                                           |4.16             |0.56             |0.96                |0.8                |1        |
+|https://warszawa.naszemiasto.pl/serwisy-rowerowe-w-warszawie-lista-warsztatow-gdzie-mozna-naprawic-rower-lub-zrobic-jego-przeglad/ar/c15p1-21631935 |5.69             |0.71             |0.74                |0.96               |1        |
+|https://sklep-naszosie.pl/                                                                                                                          |6.36             |0.89             |0.96                |0.75               |0.92     |
+|https://beatbike.pl/                                                                                                                                |6.61             |0.77             |0.96                |0.75               |0.92     |
+|https://sportset.pl/                                                                                                                                |8.24             |0.79             |0.78                |0.76               |1        |
+|https://wygodnyrower.pl/aktualnosci/%F0%9F%91%8Bnowy-sklep-i-serwis-wygodnyrower-bielany/                                                           |8.8562           |0.91             |0.96                |0.83               |0.83     |
+|https://www.rowerywarszawa.pl/                                                                                                                      |10.34            |0.56             |0.96                |0.81               |1        |
+
 ### Analiza bazy danych
 
 Przystępujemy do wytworzonej wcześniej bazy danych. Naszym celem, będzie sprawdzenie korelacji pomiędzy poszczególnymi zmiennymi. W wyniku analizy docelowo chcemy znaleźć zmienne, które będą znacząco decydujące o pozycji strony w wyszukiwarce.
