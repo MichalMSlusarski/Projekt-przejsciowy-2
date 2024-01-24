@@ -89,4 +89,4 @@ Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi 
 
 ### Konkluzje
 
-Jak widać pomimo tego, że korelacja zachodzi tylko w przypadku zmiennej **best_practises_score**, to po wizualnej analizie wykresów można stwierdzić, że zmienna **seo_score** również ma znaczący wpływ na strony pozycjonowane najwyżej w wyszukiwaniach
+Powyższe analizy pokazują, że korelacja między parametrami badanymi przez Lighthouse a pozycją strony w wynikach wyszukiwania jest żadna lub (jak w przypadku **best_practices_score**) niewielka. Możemy przyjąć hipotezę do dalszych badań, że za pozycję w wynikach wyszukiwania odpowiadają np. wzmianki dot. strony oraz linkowanie zewnętrzne.
