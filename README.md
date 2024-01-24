@@ -10,9 +10,26 @@ Korzystając z biblioteki apify_client do automatycznego wykonywania zapytań na
 
 Badanym zapytaniem jest: "serwis rowerowy warszawa". ...
 
+Proces agregacji danych podzielony jest na 4 etapy:
+1. Zebranie 100 najlepszych wyników wyszukiwania na zadaną frazę. Powtórzenie wyszukiwania 100 razy, aby móc wyciągnąć średnią pozycję.
+2. 
+
 ### Przekształcanie danych
 
 Do uzupełnienia
+
+|url                                                                                                                                                 |average_position|url_count|weight|weighted_position|
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|------|-----------------|
+|https://wygodnyrower.pl/serwis/serwis-rowerowy-warszawa/                                                                                            |1               |100      |1     |1                |
+|https://3gravity.pl/pl/                                                                                                                             |2.04            |100      |1     |2.04             |
+|https://www.centrumrowerowe.pl/sklep-rowerowy-warszawa/                                                                                             |3.08            |100      |1     |3.08             |
+|https://skleprowerowy.pl/                                                                                                                           |4.16            |100      |1     |4.16             |
+|https://warszawa.naszemiasto.pl/serwisy-rowerowe-w-warszawie-lista-warsztatow-gdzie-mozna-naprawic-rower-lub-zrobic-jego-przeglad/ar/c15p1-21631935 |5.69            |100      |1     |5.69             |
+|https://sklep-naszosie.pl/                                                                                                                          |6.36            |100      |1     |6.36             |
+|https://beatbike.pl/                                                                                                                                |6.61            |100      |1     |6.61             |
+|https://sportset.pl/                                                                                                                                |8.24            |100      |1     |8.24             |
+|https://wygodnyrower.pl/aktualnosci/%F0%9F%91%8Bnowy-sklep-i-serwis-wygodnyrower-bielany/                                                           |8.76767676767677|99       |0.99  |8.8562           |
+|https://www.rowerywarszawa.pl/                                                                                                                      |10.34           |100      |1     |10.34            |
 
 ### Google Lighthouse
 
