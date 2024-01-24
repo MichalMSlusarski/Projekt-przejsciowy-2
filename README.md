@@ -4,6 +4,10 @@
 
 Sprawdzenie jak parametry, takie jak wydajność strony, dostępność, bezpieczeństwo i optymalizacja treści strony, wpływają na jej pozycję w wynikach wyszukiwania w Google.
 
+#### Uproszczona reprezentacja całego procesu
+
+![img](diagram-ogolny.png)
+
 ### Zbieranie danych
 
 Zdecydowaliśmy się na zebranie 100 pierwszych wyników wyszukiwania dla zapytania **serwis rowerowy warszawa**. Zależy nam, aby wyniki wyszukiwania były zróżnicowane, tzn. aby nie było wśród nich dominacji dużych portali ogólnopolskich lub wyników z mediów społecznościowych. Dzięki użyciu zapytania z lokalizacją oraz wybraniu branży, która faktycznie działa w jakiejś lokalizacji udało nam się uzyskać zróżnicowane wyniki.
