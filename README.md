@@ -1,22 +1,18 @@
-# Badanie korelacji między głównymi wskaźnikami optymalizacji stron internetowych a ich pozycją w wynikach wyszukiwania
+# Badanie korelacji między głównymi wskaźnikami optymalizacji stron internetowych a ich pozycją w wynikach wyszukiwania. Na przykładzie stron warszawskich serwisów rowerowych.
 
 ### Cel projektu
 
-Sprawdzenie jak parametry takie jak wydajność strony, dostępność, bezpieczeństwo i optymalizacja treści strony, wpływają na jej pozycję w wynikach wyszukiwania w Google.
+Sprawdzenie jak parametry, takie jak wydajność strony, dostępność, bezpieczeństwo i optymalizacja treści strony, wpływają na jej pozycję w wynikach wyszukiwania w Google.
 
 ### Zbieranie danych
 
-Korzystając z biblioteki apify_client do automatycznego wykonywania zapytań na platformie Apify w celu pobrania wyników wyszukiwania dla określonego zapytania. automatyzujemy proces pobierania wyników wyszukiwania dla określonego zapytania, umożliwiając wielokrotne uruchomienie tego zadania w określonych odstępach czasu. Wyniki są zapisywane do plików JSON, a nazwy plików zawierają datę, godzinę i oryginalne zapytanie.
+Zdecydowaliśmy się na zebranie 100 pierwszych wyników wyszukiwania dla zapytania **serwis rowerowy warszawa**. Zależy nam, aby wyniki wyszukiwania były zróżnicowane, tzn. aby nie było wśród nich dominacji dużych portali ogólnopolskich lub wyników z mediów społecznościowych. Dzięki użyciu zapytania z lokalizacją oraz wybraniu branży, która faktycznie działa w jakiejś lokalizacji udało nam się uzyskać zróżnicowane wyniki.
 
-Badanym zapytaniem jest: "serwis rowerowy warszawa". ...
-
-Proces agregacji danych podzielony jest na 4 etapy:
-1. Zebranie 100 najlepszych wyników wyszukiwania na zadaną frazę. Powtórzenie wyszukiwania 100 razy, aby móc wyciągnąć średnią pozycję.
-2. 
+Do przeprowadzenia agregacji korzystamy ze scrapera z platformy Apify, który wywoływany jest ze skryptu `wyniki_wyszukiwania_google.py`. Dzięki wykorzystaniu zewnętrznego narzędzia uniknęliśmy wpływu profilowania wyników wyszukiwania na urządzenie/wyszukiwarkę. Używając pętli, agregację powtarzamy 100 razy. Za każdym razem scraper zapisuje wyniki wyszukiwania do pliku JSON w folderze `Wyniki-wyszukiwania`. Nazwy plików zawierają datę i godzinę zapytania oraz jego treść.
 
 ### Przekształcanie danych
 
-Do uzupełnienia
+Z każdego zapisanego wyszukiwania w formacie JSON, dokonujemy ekstrakcji adresu URL oraz przypisanej mu pozycji. 
 
 |url                                                                                                                                                 |average_position|url_count|weight|weighted_position|
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|------|-----------------|
