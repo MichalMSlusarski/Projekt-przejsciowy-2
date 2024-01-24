@@ -14,4 +14,4 @@ grouped_df['weighted_position'] = (grouped_df['average_position'] / grouped_df['
 grouped_df = grouped_df.sort_values(by=['weighted_position'])
 grouped_df = grouped_df.reset_index(drop=True)
 
-grouped_df.to_csv('grouped_df.csv', index=False)
+grouped_df.to_csv('grouped.csv', index=False)
