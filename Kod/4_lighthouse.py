@@ -8,7 +8,7 @@ urls = []
 with open('api_key.txt', 'r') as file:
     api_key = file.read().strip()
 
-df = pd.read_csv('C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\grouped_df.csv')
+df = pd.read_csv('C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\grouped.csv')
 
 fields_to_fetch = ['performance_score', 'best_practices_score', 'accessibility_score', 'seo_score']
 
@@ -51,5 +51,5 @@ for url in urls:
     print("Sleeping for 1 second...")
     time.sleep(1)
 
-    df.to_csv(f'C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\lighthouse-output.csv', index=False)
+    df.to_csv(f'C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\lighthouse.csv', index=False)
 
