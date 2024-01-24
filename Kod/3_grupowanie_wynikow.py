@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\output_2.csv')
+df = pd.read_csv('C:\\Users\\mslus\\Desktop\\Projekt-Przejsciowy\\Dane\\output.csv')
 
 grouped_df = df.groupby('url')['position'].agg(['mean', 'count']).reset_index()
 grouped_df = grouped_df.rename(columns={'mean': 'average_position', 'count': 'url_count'})
