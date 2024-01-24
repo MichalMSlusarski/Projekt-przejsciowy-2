@@ -44,6 +44,8 @@ wykres1 <- ggarrange(av1, av2, av3, av4,
                     ncol = 2, nrow = 2)
 ```
 
+![img](Wykresy/average_position-regression-line.png)
+
 #### Zmiana z linii regresji na linię trendu obliczoną na podstawie punktów na wykresach
 
 ```{r, message = FALSE}
