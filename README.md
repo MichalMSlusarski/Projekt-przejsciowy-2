@@ -70,6 +70,8 @@ Po analizie, Lighthouse generuje raport z wynikami, w którym przedstawia wyniki
 ### Analiza bazy danych
 
 Przystępujemy do analizy wytworzonej wcześniej bazy danych. Naszym celem, będzie sprawdzenie korelacji pomiędzy poszczególnymi zmiennymi. W wyniku analizy docelowo chcemy znaleźć zmienne, które będą znacząco decydujące o pozycji strony w wyszukiwarce.
+![image](https://github.com/MichalMSlusarski/Projekt-przejsciowy-2/assets/147703252/eda40f1a-c2a2-4604-a63b-e303abdbd57b)
+
 
 Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi jedynie w przypadku zmiennej **best_practises**
 
