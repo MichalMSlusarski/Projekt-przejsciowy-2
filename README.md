@@ -50,6 +50,8 @@ Działanie Google Lighthouse obejmuje kilka głównych obszarów analizy:
 
 4. **SEO (Search Engine Optimization):** Narzędzie analizuje elementy związane z optymalizacją dla wyszukiwarek internetowych. Oceniane są takie aspekty, jak czy strona ma odpowiednie meta-tagi, czy adresy URL są przyjazne dla wyszukiwarek, czy strona jest zaindeksowana i wiele innych.
 
+![img](Wykresy/lighthouse-visualization.png)
+
 Po analizie, Lighthouse generuje raport z wynikami, w którym przedstawia wyniki w postaci punktów procentowych dla każdego z obszarów oceny. Dzięki bezpośredniemu wywołaniu narzędzia przy pomocy API, jesteśmy w stanie otrzymać wyniki dla wszystkich badanych adresów. Wyniki zapisujemy w tabeli `lighthouse-output-full.csv`.
 
 |url                                                                                                                                                 |weighted_position|performance_score|best_practices_score|accessibility_score|seo_score|
