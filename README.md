@@ -73,7 +73,7 @@ Przystępujemy do analizy wytworzonej wcześniej bazy danych. Naszym celem, będ
 ![image](https://github.com/MichalMSlusarski/Projekt-przejsciowy-2/assets/147703252/eda40f1a-c2a2-4604-a63b-e303abdbd57b)
 
 
-Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi jedynie w przypadku zmiennej **best_practises**
+Przyjmując istotność alfa = 0,05 możemy stwierdzić, że korelacja zachodzi jedynie w przypadku zmiennej **best_practices**
 
 #### Wykresy punktowe zależności między zmienną average_position, a poszczególnymi zmiennymi
 
